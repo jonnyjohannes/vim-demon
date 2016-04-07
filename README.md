@@ -1,6 +1,6 @@
 # demon.vim
 
-Syntax and indent files for [deMon](http://www.demon-software.com/)
+Syntax and indent files for [deMon](http://www.demon-software.com/).
 
 Features included so far:
 
