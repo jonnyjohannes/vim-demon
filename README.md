@@ -35,3 +35,4 @@ With Vundle.vim:
 ### Manual installation
 
 Copy the contents of each directory in the respective directories inside `~/.vim`.
+
