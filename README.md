@@ -9,7 +9,7 @@ Features included so far:
 
 ## Example
 
-![jonnyjohannes/demon.vim](https://dl.dropboxusercontent.com/u/9525837/vim-demon.png "jonnyjohannes/demon.vim")
+![jonnyjohannes/demon.vim](vim-demon.png "jonnyjohannes/demon.vim")
 
 ## Installation
 
